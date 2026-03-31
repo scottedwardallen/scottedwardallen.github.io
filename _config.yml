@@ -1,10 +1,12 @@
 title: Scott Allen
 description: Neurophysics · Trust · Implementation Science
 
+theme: minima
+
 header_pages:
   - index.md
   - neurophysics.md
   - trust.md
   - implementation.md
   - bio.md
-  - contact.md
+  - contact.mdcontact.md
