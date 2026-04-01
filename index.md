@@ -37,7 +37,7 @@ I am especially interested in building mechanistic bridges from neural systems t
 - [Implementation Science](https://arxiv.org/abs/2409.12039)  
 - [Professional Profile](https://www.linkedin.com/in/scott-allen-754501162/)
 
-  <style>
+<style>
 .site-footer,
 footer,
 .page-footer {
