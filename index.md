@@ -36,3 +36,11 @@ I am especially interested in building mechanistic bridges from neural systems t
 - [Neurophysics / Learning](https://arxiv.org/abs/2509.17202)  
 - [Implementation Science](https://arxiv.org/abs/2409.12039)  
 - [Professional Profile](https://www.linkedin.com/in/scott-allen-754501162/)
+
+  <style>
+.site-footer,
+footer,
+.page-footer {
+  display: none !important;
+}
+</style>
