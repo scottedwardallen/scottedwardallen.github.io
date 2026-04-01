@@ -31,6 +31,9 @@ Researcher working at the intersection of Physics, Neuroscience, Human Learning,
 - [Implementation Science Made User-Freindly](https://arxiv.org/abs/2409.12039)  
 - [Professional Profile](https://www.linkedin.com/in/scott-allen-754501162/)
 ---
+<a href="mailto:sea98@cornell.edu">📧 Email</a>  
+<a href="/assets/files/CV2026.pdf" target="_blank">📄 CV</a>  
+<a href="https://scholar.google.com/citations?user=kVqGhQYAAAAJ&hl=en">📚 Google Scholar</a>
 
 ## Research Overview
 
@@ -48,17 +51,9 @@ His work bridges phenomena across levels of neurophysics, cognition, behavior, a
 
 <br>
 
-<a href="mailto:sea98@cornell.edu">📧 Email</a>  
-<a href="/assets/files/CV2026.pdf" target="_blank">📄 CV</a>  
-<a href="https://scholar.google.com/citations?user=kVqGhQYAAAAJ&hl=en">📚 Google Scholar</a>
 
-</div>
 
-<div style="flex:1; min-width:250px;">
-<img src="/assets/images/headshot.png" alt="Scott Allen" style="max-width:300px; border-radius:6px;">
-</div>
 
-</div>
 
 ---
 
