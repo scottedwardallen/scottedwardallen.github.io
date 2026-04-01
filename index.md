@@ -24,6 +24,12 @@ Researcher working at the intersection of Physics, Neuroscience, Human Learning,
 
 </div>
 
+## Selected Links
+
+- [Human Learning Mechansims Drive Trust Development](https://ui.adsabs.harvard.edu/abs/2024arXiv240108064A/abstract)  
+- [Neural Information Governs Human Learning Mechanisms](https://arxiv.org/abs/2509.17202)  
+- [Implementation Science Made User-Freindly](https://arxiv.org/abs/2409.12039)  
+- [Professional Profile](https://www.linkedin.com/in/scott-allen-754501162/)
 ---
 
 ## Research Overview
@@ -56,12 +62,7 @@ His work bridges phenomena across levels of neurophysics, cognition, behavior, a
 
 ---
 
-## Selected Links
 
-- [Trust Research](https://ui.adsabs.harvard.edu/abs/2024arXiv240108064A/abstract)  
-- [Neurophysics / Learning](https://arxiv.org/abs/2509.17202)  
-- [Implementation Science](https://arxiv.org/abs/2409.12039)  
-- [Professional Profile](https://www.linkedin.com/in/scott-allen-754501162/)
 
 <style>
 .site-footer,
