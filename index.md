@@ -2,7 +2,7 @@
 layout: default
 
 ---
-
+# Dr. Scott E. Allen
 
 Researcher working at the intersection of neuroscience, physics, trust, learning, and implementation.
 
