@@ -17,9 +17,9 @@ I am especially interested in building mechanistic bridges from neural systems t
 
 <br>
 
-<a href="mailto:YOUR_EMAIL_HERE">📧 Email</a>  
+<a href="mailto:sea98@cornell.edu">📧 Email</a>  
 <a href="YOUR_CV_LINK_HERE">📄 CV</a>  
-<a href="YOUR_GOOGLE_SCHOLAR_LINK_HERE">📚 Google Scholar</a>
+<a href="https://scholar.google.com/citations?user=kVqGhQYAAAAJ&hl=en">📚 Google Scholar</a>
 
 </div>
 
@@ -33,7 +33,7 @@ I am especially interested in building mechanistic bridges from neural systems t
 
 ## Selected Links
 
-- [Trust Research](YOUR_TRUST_LINK_HERE)  
-- [Neurophysics / Learning](YOUR_NEURO_LINK_HERE)  
-- [Implementation Science](YOUR_IMPL_LINK_HERE)  
-- [Professional Profile](YOUR_LINKEDIN_OR_OTHER_LINK_HERE)
+- [Trust Research](https://ui.adsabs.harvard.edu/abs/2024arXiv240108064A/abstract)  
+- [Neurophysics / Learning](https://arxiv.org/abs/2509.17202)  
+- [Implementation Science](https://arxiv.org/abs/2409.12039))  
+- [Professional Profile](https://www.linkedin.com/in/scott-allen-754501162/)
