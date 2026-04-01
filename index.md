@@ -24,7 +24,7 @@ I am especially interested in building mechanistic bridges from neural systems t
 </div>
 
 <div style="flex:1; min-width:250px;">
-<img src="images/profile.jpg" alt="Scott Allen" style="max-width:300px; border-radius:6px;">
+<img src="/assets/images/headshot.png" alt="Scott Allen" style="max-width:300px; border-radius:6px;">
 </div>
 
 </div>
