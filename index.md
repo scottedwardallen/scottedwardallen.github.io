@@ -18,7 +18,7 @@ I am especially interested in building mechanistic bridges from neural systems t
 <br>
 
 <a href="mailto:sea98@cornell.edu">📧 Email</a>  
-<a href="YOUR_CV_LINK_HERE">📄 CV</a>  
+<a href="/assets/files/CV2026.pdf" target="_blank">📄 CV</a>  
 <a href="https://scholar.google.com/citations?user=kVqGhQYAAAAJ&hl=en">📚 Google Scholar</a>
 
 </div>
