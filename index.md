@@ -3,7 +3,7 @@ layout: default
 title: Scott E. Allen
 ---
 
-# Scott E. Allen
+
 
 Researcher working at the intersection of neuroscience, physics, trust, learning, and implementation.
 
